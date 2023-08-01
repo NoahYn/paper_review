@@ -1,6 +1,6 @@
 # paper_review
 
-### 23.08.01 - "Attention Is All You Need(2017)"
+### 23.08.01 - Attention Is All You Need (GPT-API 스터디 발표)
 
   생각해볼 것들. 
   
