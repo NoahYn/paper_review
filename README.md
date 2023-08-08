@@ -10,8 +10,8 @@
   - Q3. Architecture figure(Figure 1)에서 output 아래 (shifted right)는 무슨 뜻일까?
     - A3. decoder에서 모델이 예측을 시작할 땐 출력 sequence가 없는 상태에서 SOS로 시작하므로 오른쪽으로 한 칸씩 이동했다라고 이해함. 
 
-### 23.08.08 - Reinforcement Learning Upside Down (Journal -> SNN project)
+### 23.08.08 - Reinforcement Learning Upside Down (Journal seminar 발표)
 
-    생각해볼 것들. 
+  생각해볼 것들. 
 
-    - Q1. Command를 Semantic하게 사용할 수 있다면 정말 좋을텐데. Reward를 좀 더 복잡하게 설계한다면? (-> like Multiple reward or Vector reward) word embedding처럼, reward도 의미론적으로 embedding할 수 있을까?
+  - Q1. Command를 Semantic하게 사용할 수 있다면 정말 좋을텐데. Reward를 좀 더 복잡하게 설계한다면? (-> like Multiple reward or Vector reward) word embedding처럼, reward도 의미론적으로 embedding할 수 있을까?
