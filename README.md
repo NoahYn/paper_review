@@ -15,3 +15,8 @@
   생각해볼 것들. 
 
   - Q1. Command를 Semantic하게 사용할 수 있다면 정말 좋을텐데. Reward를 좀 더 복잡하게 설계한다면? (-> like Multiple reward or Vector reward) word embedding처럼, reward도 의미론적으로 embedding할 수 있을까?
+  - Q2. 유명한 저자의 주목할만한 논문임에도 인용수가 굉장히 적다. 왜일까?
+
+### 23.08.10 - Reinforcement Learning in a Neurally Controlled Robot Using Dopamin Modulated STDP (SNN study 발표)
+
+  - Eligibility Traces, synaptic tag, Dual-path model의 개념에 대해 더 자세히 찾아보고 이해하기.
