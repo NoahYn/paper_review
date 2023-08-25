@@ -1,6 +1,7 @@
 # paper_review
 
 ### 23.08.01 - Attention Is All You Need (GPT-API 스터디 발표)
+https://arxiv.org/abs/1706.03762
 
   생각해볼 것들. 
   
@@ -11,6 +12,7 @@
     - A3. decoder에서 모델이 예측을 시작할 땐 출력 sequence가 없는 상태에서 SOS로 시작하므로 오른쪽으로 한 칸씩 이동했다라고 이해함. 
 
 ### 23.08.08 - Reinforcement Learning Upside Down (Journal seminar 발표)
+https://arxiv.org/abs/1912.02875
 
   생각해볼 것들. 
 
@@ -18,5 +20,11 @@
   - Q2. 유명한 저자의 주목할만한 논문임에도 인용수가 굉장히 적다. 왜일까?
 
 ### 23.08.10 - Reinforcement Learning in a Neurally Controlled Robot Using Dopamin Modulated STDP (SNN study 발표)
+https://arxiv.org/abs/1502.06096
 
   - Eligibility Traces, synaptic tag, Dual-path model의 개념에 대해 더 자세히 찾아보고 이해하기.
+
+### 23.08.25 - Spiking Denoising Diffusion Probabilistic Models
+https://arxiv.org/abs/2306.17046
+
+  - Residual connection을 spiking block에 적용하기 위해 structure 순서를 바꾸는 발상이 재미있었다.
