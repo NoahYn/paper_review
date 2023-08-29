@@ -28,3 +28,10 @@ https://arxiv.org/abs/1502.06096
 https://arxiv.org/abs/2306.17046
 
   - Residual connection을 spiking block에 적용하기 위해 structure 순서를 바꾸는 발상이 재미있었다.
+
+### 23.08.29 - RepVGG : Making VGG-style ConvNets Great Again
+https://arxiv.org/abs/2101.03697
+
+  - 시계열 예측 모델에 사용하기 위해 1D + submodule로 수정함 -> https://github.com/NoahYn/Conv1d_Modules/tree/main
+  - 저자 레포를 확인하면 Structural Reparameterization technic을 VGG 외에도 많이 적용하고 있는데, 특히 RepLKNet이 흥미로웠다.(https://github.com/DingXiaoH/RepLKNet-pytorch)
+  - 트레이닝 시 브랜치 효과를 극대화하기 위해 ReLU같은 비선형 레이어를 퓨징하는 방법은 없을까? 
